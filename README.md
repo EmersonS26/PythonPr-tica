@@ -20,8 +20,11 @@ Bem-vindo ao meu repositório de projetos Python! Sou um entusiasta apaixonado p
    - Passo 4 = Aqui eu inseri condicionais, onde dependendo da resposta haverá interações.
 
 -Estou em um intensivo na linguagem(com direito a fundamentos e um bootcamp com django e flask) e durante todo esse mês de dezembro, estou com foco 100% em PYTHON.
--Tenho interesse de percorrer todo roadmpa do python
--Também futuramente após finalizar o curso técnico,iniciar graduação em #SEGURANÇA DA INFORMAÇÃO
+
+-Tenho interesse de percorrer todo roadmpa do python.
+
+-Também futuramente após finalizar o curso técnico,iniciar graduação em: Segurança Da Informação.
+
 -Pretendo trabalhar exclusivamente com python atualmente, e de último caso...JAVASCRIPT.
 
 ## Objetivo:
