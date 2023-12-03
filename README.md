@@ -1,5 +1,4 @@
 # Python-Prática
-# Meus Projetos Simples e prático com Python 🚀
 
 # Meus Projetos Python 🚀
 
