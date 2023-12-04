@@ -23,11 +23,11 @@ Bem-vindo ao meu repositório de projetos Python! Sou um entusiasta apaixonado p
    - A tabuada contém um input(entrada) onde só aceita números de 1 a 10.
   
 4. **Autorização de senha**
-   - Utilizei a condicional while para criar a autorização de senha.
-   - Primeiramente temos um input onde pede a senha.
-   - Em segundo,com a estrutura do while peço para que a senha incorreta caso não seja a senha que pedi e peça pra dgitar novamente enquanto a senha for diferente da senha correta.
+   - Utilizei a estrutura de repetição while para criar a autorização de senha.
+   - Primeiramente temos um input onde solicita a senha.
+   - Em segundo,com a estrutura do while, peço para que se a senha não for a senha correta, peça pra digitar novamente enquanto a senha for diferente da senha correta.
    - Após digitar a senha correta,o acesso é autorizado.
-   - 
+     
 
 -Estou em um intensivo na linguagem(com direito a fundamentos e um bootcamp com django e flask) e durante todo esse mês de dezembro, estou com foco 100% em PYTHON.
 
