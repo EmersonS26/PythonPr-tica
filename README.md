@@ -17,6 +17,10 @@ Bem-vindo ao meu repositório de projetos Python! Sou um entusiasta apaixonado p
    - Passo 2 = Input(Valor de saque), quanto você deseja sacar?
    - Passo 3 = Faz uma pergunta, se deseja ver o saldo/extrato da conta.
    - Passo 4 = Aqui eu inseri condicionais, onde dependendo da resposta haverá interações.
+  
+3. **Tabuada de 1 a 10**
+   - Tabuada utilizando a estrutura de repetição while
+   - A tabuada contém um input(entrada) onde só aceita números de 1 a 10
 
 -Estou em um intensivo na linguagem(com direito a fundamentos e um bootcamp com django e flask) e durante todo esse mês de dezembro, estou com foco 100% em PYTHON.
 
